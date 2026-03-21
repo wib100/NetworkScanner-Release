@@ -1,6 +1,8 @@
 # Network Scanner
 
-Network Scanner is an Android app for discovering devices on your local network, checking common services, and analyzing nearby Wi-Fi networks.
+Network Scanner is an Android app for local network discovery, device inspection, port scanning, and Wi-Fi analysis.
+
+It helps you scan devices on your LAN, inspect common services, and analyze nearby Wi-Fi networks with a dedicated channel view for 2.4 GHz, 5 GHz, and 6 GHz.
 
 This repository is used for public app releases and project information. The application source code is not published here.
 
