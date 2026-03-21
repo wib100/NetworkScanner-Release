@@ -13,6 +13,24 @@ Download the latest APK from the [Releases](../../releases) section.
 Current version:
 - `NetworkScanner-v0.3a.apk`
 
+## Screenshots
+
+### Main Screen
+
+![Main Screen](screenshots/01-main-screen.png)
+
+### Wi-Fi Analysis
+
+![Wi-Fi Analysis](screenshots/02-wifi-analysis.png)
+
+### Channel View
+
+![Channel View](screenshots/03-channel-view.png)
+
+### Device Detail
+
+![Device Detail](screenshots/04-device-detail.png)
+
 ## Features
 
 - Scan devices in your local network
