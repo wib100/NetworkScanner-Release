@@ -1,0 +1,18 @@
+Network Scanner
+Copyright (c) 2026 wib
+
+All rights reserved.
+
+Permission is granted to download, install and use this app free of charge for private and commercial use.
+
+You may not:
+- sell this app
+- redistribute modified versions as if they were the original app
+- remove copyright notices or branding
+- reverse engineer, decompile or disassemble the app except where applicable law explicitly permits it
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose and noninfringement.
+
+In no event shall the author be liable for any claim, damages or other liability arising from or in connection with the software or the use of the software.
+
+This license applies only to Network Scanner itself. Third-party components remain under their respective licenses.
