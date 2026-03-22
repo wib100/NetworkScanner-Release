@@ -11,7 +11,7 @@ Also available in German and Spanish in the app UI.
 Download the latest APK from the [Releases](../../releases) section.
 
 Current version:
-- `NetworkScanner-v0.3b.apk`
+- `NetworkScanner-v0.3c.apk`
 
 ## Screenshots
 
