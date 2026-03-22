@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3c
+
+- Added an automatic and manual update check based on GitHub releases
+- Added direct APK download from the update dialog when available
+- Added an option to ignore a specific update version
+- Improved release note formatting inside the update dialog
+- Completed English, German, and Spanish localization for the update check
+
 ## 0.3b
 
 - Added a radar-style scan loader with target count tied to discovered devices
