@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3d
+
+- Improved the in-app update flow after APK download
+- Added a clearer install action after download completion
+- Added notification permission handling before update downloads start
+- Added a GitHub releases entry in the About section
+- Improved update download failure handling and messaging
+
 ## 0.3c
 
 - Added an automatic and manual update check based on GitHub releases
