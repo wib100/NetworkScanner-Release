@@ -2,7 +2,8 @@
 
 Network Scanner is an Android app for discovering devices on your local network, checking common services, and analyzing nearby Wi-Fi networks.
 
-This repository is used for public app releases and project information. The application source code is not published here.
+This repository is used only for public app downloads, screenshots, release notes, and legal files.
+It does not contain the private Android application source code.
 
 Also available in German and Spanish in the app UI.
 
@@ -12,6 +13,10 @@ Download the latest APK from the [Releases](../../releases) section.
 
 Current version:
 - `NetworkScanner-v0.3c.apk`
+
+Note:
+- GitHub automatically shows `Source code (zip)` and `Source code (tar.gz)` for each release tag.
+- In this repository, those archives contain only the public release files from this repo, not the private app source code.
 
 ## Screenshots
 
