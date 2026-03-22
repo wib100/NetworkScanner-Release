@@ -15,21 +15,12 @@ Current version:
 
 ## Screenshots
 
-### Main Screen
-
-![Main Screen](screenshots/01-main-screen.png)
-
-### Wi-Fi Analysis
-
-![Wi-Fi Analysis](screenshots/02-wifi-analysis.png)
-
-### Channel View
-
-![Channel View](screenshots/03-channel-view.png)
-
-### Device Detail
-
-![Device Detail](screenshots/04-device-detail.png)
+<p align="center">
+  <img src="screenshots/01-main-screen.png" alt="Main Screen" width="240" />
+  <img src="screenshots/02-wifi-analysis.png" alt="Wi-Fi Analysis" width="240" />
+  <img src="screenshots/03-channel-view.png" alt="Channel View" width="240" />
+  <img src="screenshots/04-device-detail.png" alt="Device Detail" width="240" />
+</p>
 
 ## Features
 
