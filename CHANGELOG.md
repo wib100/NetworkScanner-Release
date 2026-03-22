@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3b
+
+- Added a radar-style scan loader with target count tied to discovered devices
+- Improved demo mode data so detail views better match the current app experience
+- Refreshed public screenshots for the 0.3b release
+
 ## 0.3
 
 - Improved Wi-Fi analysis
