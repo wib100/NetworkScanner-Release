@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3h
+
+- Test release for final validation of the in-app update flow from 0.3g
+- No feature changes beyond the already shipped 0.3g update-flow fixes
+
 ## 0.3g
 
 - Refined device list badges and indicators to avoid overlap in dense rows
