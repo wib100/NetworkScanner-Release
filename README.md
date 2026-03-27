@@ -13,7 +13,7 @@ Download the latest APK from the [Releases](../../releases) section.
 
 Current version:
 
-- `NetworkScanner-v0.3g.apk`
+- `NetworkScanner-v0.3h.apk`
 
 Note:
 
