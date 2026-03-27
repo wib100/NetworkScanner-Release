@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3g
+
+- Refined device list badges and indicators to avoid overlap in dense rows
+- Replaced the alias text chip with a compact tag icon in the device list
+- Expanded demo mode so NEW, GONE, alias, and note states are visible in screenshots and presentations
+- Enabled deep scan behavior by default and removed the extra setting toggle
+- Hardened the in-app update flow on modern Android, including permission resume for notifications and APK installation
+
 ## 0.3f
 
 - Added option to show discovered devices live during an active scan
