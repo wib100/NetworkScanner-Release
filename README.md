@@ -12,20 +12,35 @@ Also available in German and Spanish in the app UI.
 Download the latest APK from the [Releases](../../releases) section.
 
 Current version:
-- `NetworkScanner-v0.3f.apk`
+
+- `NetworkScanner-v0.3g.apk`
 
 Note:
+
 - GitHub automatically shows `Source code (zip)` and `Source code (tar.gz)` for each release tag.
 - In this repository, those archives contain only the public release files from this repo, not the private app source code.
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/01-main-screen.png" alt="Main Screen" width="240" />
+  <img src="screenshots/01-main-screen.png" alt="Main Screen – NEW badge" width="240" />
+  <img src="screenshots/01-main-screen-2.png" alt="Main Screen – GONE badge, alias and note icons" width="240" />
   <img src="screenshots/02-wifi-analysis.png" alt="Wi-Fi Analysis" width="240" />
   <img src="screenshots/03-channel-view.png" alt="Channel View" width="240" />
   <img src="screenshots/04-device-detail.png" alt="Device Detail" width="240" />
 </p>
+
+## Device List Icons
+
+Each device row in the main list may show small indicator icons in the right column:
+
+| Icon / Badge | Meaning |
+|---|---|
+| 🏷️ Tag icon | Device has a **custom alias** (saved name) |
+| 📋 Note icon | Device has a **saved note** |
+| ⚠️ Warning icon | Device has an **open security-relevant port** (e.g. Telnet, FTP, unencrypted HTTP) |
+| `NEW` badge (teal) | Device was **not present** in the previous scan and appeared **newly** |
+| `GONE` badge (grey, dimmed) | Device was present before but **did not respond** in the latest scan |
 
 ## Features
 
