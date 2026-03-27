@@ -1,0 +1,38 @@
+Network Scanner includes third-party software components.
+
+AndroidX libraries
+Copyright The Android Open Source Project
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Material Components for Android
+Copyright Google LLC
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Kotlin and Kotlin standard library
+Copyright JetBrains s.r.o. and Kotlin contributors
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Kotlin Coroutines
+Copyright JetBrains s.r.o.
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Room
+Copyright The Android Open Source Project
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Gson
+Copyright Google LLC
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+Preference and RecyclerView support libraries
+Copyright The Android Open Source Project
+License: Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+This notice file is a practical summary and does not replace the original license texts of the respective projects.
