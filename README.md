@@ -35,13 +35,10 @@ Note:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td colspan="3" align="center">
       <img src="screenshots/03-channel-view.png" alt="Channel View" width="220" />
-    </td>
-    <td align="center">
       <img src="screenshots/04-device-detail.png" alt="Device Detail" width="220" />
     </td>
-    <td></td>
   </tr>
 </table>
 
