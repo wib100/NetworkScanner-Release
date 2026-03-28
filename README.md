@@ -22,13 +22,28 @@ Note:
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/01-main-screen.png" alt="Main Screen – NEW badge" width="240" />
-  <img src="screenshots/01-main-screen-2.png" alt="Main Screen – GONE badge, alias and note icons" width="240" />
-  <img src="screenshots/02-wifi-analysis.png" alt="Wi-Fi Analysis" width="240" />
-  <img src="screenshots/03-channel-view.png" alt="Channel View" width="240" />
-  <img src="screenshots/04-device-detail.png" alt="Device Detail" width="240" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/01-main-screen.png" alt="Main Screen - NEW badge" width="220" />
+    </td>
+    <td align="center">
+      <img src="screenshots/01-main-screen-2.png" alt="Main Screen - GONE badge, alias and note icons" width="220" />
+    </td>
+    <td align="center">
+      <img src="screenshots/02-wifi-analysis.png" alt="Wi-Fi Analysis" width="220" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/03-channel-view.png" alt="Channel View" width="220" />
+    </td>
+    <td align="center">
+      <img src="screenshots/04-device-detail.png" alt="Device Detail" width="220" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## Device List Icons
 
