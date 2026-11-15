@@ -40,6 +40,11 @@ Note:
       <img src="screenshots/04-device-detail.png" alt="Device Detail" width="220" />
     </td>
   </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="screenshots/05-settings.png" alt="Settings - automatic refresh and update check" width="220" />
+    </td>
+  </tr>
 </table>
 
 ## Device List Icons
