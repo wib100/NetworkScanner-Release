@@ -13,7 +13,7 @@ Download the latest APK from the [Releases](../../releases) section.
 
 Current version:
 
-- `NetworkScanner-v0.3h.apk`
+- `NetworkScanner-v0.5b.apk`
 
 Note:
 
@@ -54,10 +54,20 @@ Each device row in the main list may show small indicator icons in the right col
 | `NEW` badge (teal) | Device was **not present** in the previous scan and appeared **newly** |
 | `GONE` badge (grey, dimmed) | Device was present before but **did not respond** in the latest scan |
 
+## Device Types
+
+Devices are grouped by type: Router, PC, Smartphone, Printer, TV, Game Console, NAS, Camera, Server, and the smart-home categories **Energy**, **Heating**, **Hub**, **Gate**, and **Outlet**.
+Devices that cannot be identified reliably stay in **Smart Home** or **Unknown** – a device that answers nothing on the network cannot always be named, because Android does not expose hardware addresses to apps.
+
 ## Features
 
 - Scan devices in your local network
 - Detect common services and open ports
+- Identify devices from the information they announce themselves (hostname, model strings, service descriptions)
+- Finer device categories: energy, heating, hub, gate, outlet – instead of one generic "smart home" bucket
+- Automatic refresh while the app is open (1, 2, 5, 10 or 15 minutes, off by default)
+- Device aliases and notes survive a changed IP address
+- Faster scans: devices that already identified themselves are not probed further
 - Group and filter devices by type
 - Save custom device names and notes
 - Export results as JSON, CSV, or text report
@@ -74,10 +84,13 @@ Each device row in the main list may show small indicator icons in the right col
 4. If Android asks, allow installation from unknown sources for your browser or file manager.
 5. Install the app.
 
+Updates install over the existing app; saved names, notes and history are kept.
+
 ## Notes
 
 - The app is intended for use on your own network or on networks where you have permission to scan devices.
 - Some Wi-Fi and network details require Android location permission due to platform restrictions.
+- Some devices answer identification requests only occasionally; a device may be named in one scan and appear unnamed in the next.
 - Release APKs are signed.
 
 ## Responsible use

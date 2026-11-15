@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.5b
+
+- Split the generic "Smart Home" category into Energy, Heating, Hub, Gate and Outlet
+- Device aliases and notes survive a changed IP address (stable device identity)
+- Optional automatic refresh while the app is open (1, 2, 5, 10 or 15 minutes, default off)
+- Faster scans: devices that already identified themselves skip the full port scan and HTTP probing
+- NetBIOS names are collected with one broadcast query instead of one query per device
+- Removed an unused SMB probe that never produced results
+
 ## 0.3h
 
 - Test release for final validation of the in-app update flow from 0.3g
