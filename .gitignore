@@ -1,0 +1,14 @@
+# Never commit signing material to the public release repository.
+*.jks
+*.keystore
+*.pfx
+keystore.properties
+keystore/
+
+# Local build/editor leftovers that have no place in a release repository.
+*.iml
+.gradle/
+build/
+local.properties
+.DS_Store
+Thumbs.db
